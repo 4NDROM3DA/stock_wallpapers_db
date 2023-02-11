@@ -147,60 +147,59 @@
         "dimensions": "1844x4096"
 	},
         {
-                "name": "zflip4_static_01",
-                "author": "Samsung",
-                "url": "https://raw.githubusercontent.com/4ndrom3da/stock_wallpapers_db/master/z_flip_4_static_wallpapers/01.png",
-                "downloadable": true,
-                "dimensions": "1844x4096"
+        "name": "zflip4_static_01",
+        "author": "Samsung",
+        "url": "https://raw.githubusercontent.com/4ndrom3da/stock_wallpapers_db/master/z_flip_4_static_wallpapers/01.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
         },
         {
-                "name": "zflip4_static_02",
-                "author": "Samsung",
-                "url": "https://raw.githubusercontent.com/4ndrom3da/stock_wallpapers_db/master/z_flip_4_static_wallpapers/02.png",
-                "downloadable": true,
-                "dimensions": "1844x4096"
+        "name": "zflip4_static_02",
+        "author": "Samsung",
+        "url": "https://raw.githubusercontent.com/4ndrom3da/stock_wallpapers_db/master/z_flip_4_static_wallpapers/02.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
         },
         {
-                "name": "zflip4_static_03",
-                "author": "Samsung",
-                "url": "https://raw.githubusercontent.com/4ndrom3da/stock_wallpapers_db/master/z_flip_4_static_wallpapers/03.png",
-                "downloadable": true,
-                "dimensions": "1844x4096"
+        "name": "zflip4_static_03",
+        "author": "Samsung",
+        "url": "https://raw.githubusercontent.com/4ndrom3da/stock_wallpapers_db/master/z_flip_4_static_wallpapers/03.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
         },
         {
-                "name": "zflip4_static_04",
-                "author": "Samsung",
-                "url": "https://raw.githubusercontent.com/4ndrom3da/stock_wallpapers_db/master/z_flip_4_static_wallpapers/04.png",
-                "downloadable": true,
-                "dimensions": "1844x4096"
+        "name": "zflip4_static_04",
+        "author": "Samsung",
+        "url": "https://raw.githubusercontent.com/4ndrom3da/stock_wallpapers_db/master/z_flip_4_static_wallpapers/04.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
         },
         {
-                "name": "zflip4_static_05",
-                "author": "Samsung",
-                "url": "https://raw.githubusercontent.com/4ndrom3da/stock_wallpapers_db/master/z_flip_4_static_wallpapers/05.png",
-                "downloadable": true,
-                "dimensions": "1844x4096"
+        "name": "zflip4_static_05",
+        "author": "Samsung",
+        "url": "https://raw.githubusercontent.com/4ndrom3da/stock_wallpapers_db/master/z_flip_4_static_wallpapers/05.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
         },
         {
-                "name": "zflip4_static_06",
-                "author": "Samsung",
-                "url": "https://raw.githubusercontent.com/4ndrom3da/stock_wallpapers_db/master/z_flip_4_static_wallpapers/06.png",
-                "downloadable": true,
-                "dimensions": "1844x4096"
+        "name": "zflip4_static_06",
+        "author": "Samsung",
+        "url": "https://raw.githubusercontent.com/4ndrom3da/stock_wallpapers_db/master/z_flip_4_static_wallpapers/06.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
         },
         {
-                "name": "zflip4_static_07",
-                "author": "Samsung",
-                "url": "https://raw.githubusercontent.com/4ndrom3da/stock_wallpapers_db/master/z_flip_4_static_wallpapers/07.png",
-                "downloadable": true,
-                "dimensions": "1844x4096"
+        "name": "zflip4_static_07",
+        "author": "Samsung",
+        "url": "https://raw.githubusercontent.com/4ndrom3da/stock_wallpapers_db/master/z_flip_4_static_wallpapers/07.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
         },
         {
-                "name": "zflip4_static_08",
-                "author": "Samsung",
-                "url": "https://raw.githubusercontent.com/4ndrom3da/stock_wallpapers_db/master/z_flip_4_static_wallpapers/08.png",
-                "downloadable": true,
-                "dimensions": "1844x4096"
+        "name": "zflip4_static_08",
+        "author": "Samsung",
+        "url": "https://raw.githubusercontent.com/4ndrom3da/stock_wallpapers_db/master/z_flip_4_static_wallpapers/08.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
         }
-]
-     
+]    
